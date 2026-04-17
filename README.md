@@ -23,8 +23,8 @@ Search medicinal herbs by **name** or by **illness / medical use**, with a clean
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AppRonin/herbdex-django.git
-cd herbdex-django
+git clone https://github.com/vfb-dev/herbdex.git
+cd herbdex
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -60,4 +60,4 @@ python manage.py runserver
 
 ## Author
 
-Developed by **AppRonin**, Full-Stack Developer.
+vfb-dev — Turning ideas into web apps
